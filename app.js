@@ -10,8 +10,8 @@ function loader(){
 
   gsap.to("#loader",{
     top:"-100%",
-    duration: 1.2,
-    delay:0.2
+    duration: 1.3,
+    delay:0.5
   })
 
   setTimeout(()=>{
